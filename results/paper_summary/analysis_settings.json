@@ -1,0 +1,36 @@
+{
+  "workbook": "/Users/vblanco/Library/CloudStorage/OneDrive-UNIVERSIDADDEGRANADA/SDP Clusters Code/all_v1.xlsx",
+  "sheet": "all_v1",
+  "source_sha256": "be274306b886e2510867ce37d1ea1958ac735f63009fbf2b0b68b60bf739f202",
+  "methods": [
+    "compact",
+    "PW",
+    "LR-D",
+    "LR-A",
+    "LR-SA"
+  ],
+  "taus": [
+    1.5,
+    2.0,
+    3.0
+  ],
+  "table_sizes": [
+    20
+  ],
+  "profile_sizes": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "box_sizes": [
+    30,
+    40,
+    50
+  ],
+  "nominal_time_limit": 3600.0,
+  "relative_tolerance": 0.0001,
+  "absolute_tolerance": 1e-06,
+  "matching": "intersection of selected methods"
+}
